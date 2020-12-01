@@ -25,7 +25,7 @@ SECRET_KEY = 'iic*r=-clxj_wdo*kd@hm+kv&w6!v(8m4exzhi3z(o*uun)clp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '77.68.122.123', 'muraad']
 
 
 # Application definition
