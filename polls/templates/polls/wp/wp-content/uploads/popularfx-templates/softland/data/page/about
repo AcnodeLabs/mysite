@@ -1,0 +1,193 @@
+[pl_row pagelayer-id="UhmJv8xc9v2LJ3pG"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/contactbg.jpg" ele_bg_posx="center" ele_bg_posy="bottom" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.3" overlay_color="#e81a1cff" ele_padding_mobile="75px,0px,75px,0px" ele_padding_tablet="100px,0px,100px,0px"]
+[pl_col pagelayer-id="vUy9KCghrySrriC3"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="98J6Y5AkhRSdz0r1"  heading_state="normal" color="#ffffffff" align="center" heading_typo="Source Sans Pro,40,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",30,,,,,Solid,,,,"]
+
+About Us[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="KViejj220HZXd0P4"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" content_pos="center" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="j0JeJLpJclSAGxWB"  widget_space="15" overlay_hover_delay="400" ele_padding="0px,0px,0px,25px" col_width="50" col_width_mobile="100" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_heading pagelayer-id="tQS3dmXqeYefcTCF"  heading_state="normal" color="#010101ff" align="left" heading_typo="Source Sans Pro,40,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,," ele_padding="0%,0%,0%,0%"]
+
+A Small team  with grand  ambition[/pl_heading]
+[pl_text pagelayer-id="RoFL0G8wRbXh4rtI"  ele_padding="0%,10%,0%,0%" animation="fadeInUp" animation_delay="700" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+<p style="font-family:Source sans pro;font-size:16px;font-weight:400;color:#5d5d5d;line-height:1.8;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis. </p>[/pl_text]
+[pl_btn pagelayer-id="yVomYcVpzlbxquiD"  text="Meet the crew" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="500" icon_position="pagelayer-btn-icon-left" icon_spacing="5" link="#" btn_typo="Source Sans Pro,16,,600,,,Solid,1,,," btn_bg_color="#e81a1cff" btn_color="#ffffffff" btn_bg_color_hover="#00000000" btn_custom_size="5" btn_border_type="solid" btn_border_color="#00000000" btn_border_radius="0,0,0,0" btn_border_width="2,2,2,2" btn_bor_hover="hover" btn_border_type_hover="solid" btn_border_color_hover="#e81a1cff" btn_border_width_hover="2,2,2,2" btn_border_radius_hover="0,0,0,0" btn_hover="" btn_color_hover="#e81a1cff" ele_padding="20px,0px,0px,0px" animation="fadeInUp" animation_delay="800" animation_speed="slowest" btn_typo_mobile=",12,,,,,Solid,,,," btn_typo_tablet=",13,,,,,Solid,,,,"]
+[/pl_btn]
+[/pl_col]
+[pl_col pagelayer-id="ej4k55EP13v5GMjN"  widget_space="15" overlay_hover_delay="400" col_width="50" col_width_mobile="100"]
+[pl_image pagelayer-id="WOUK0M0o5uCqoS7C"  id="{{theme_url}}/images/contactbg.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInRight" animation_delay="600" animation_speed="slowest"]
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="vcdFziYKqlvc2HJ9"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#e81a1cff" content_pos="center"]
+[pl_col pagelayer-id="wHPLWyuAYh3Lj9iQ"  widget_space="15" overlay_hover_delay="400" border_radius="0em,0em,0em,0em" ele_padding="0px,20px,0px,0px" col_width="50" col_width_mobile="100"]
+[pl_image pagelayer-id="OY1pMMV3d90nN19q"  id="{{theme_url}}/images/image7.jpg" id-size="full" align="left" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" border_radius="0em,9em,9em,0em" animation="fadeInLeft" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="juotGjsmvAzuener"  widget_space="15" overlay_hover_delay="400" ele_bg_type="" ele_bg_color="#e81a1cff" border_radius="0px,0px,0px,0px" ele_bg_gradient="81,#e81a1cff,13,#e81a1cff,45,#e81a1cff,100" ele_padding="0px,0px,0px,30px" col_width="50" col_width_mobile="100" ele_padding_mobile="40px,25px,40px,20px"]
+[pl_heading pagelayer-id="AIshuO2uQnvvSwBg"  heading_state="normal" color="#ffffffff" align="left" heading_typo="Source Sans Pro,28,,600,,,Solid,,,," ele_padding="0%,0%,0%,0%" ele_margin="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+"We are working at almost[/pl_heading]
+[pl_heading pagelayer-id="IXhrLXQIWdVqlXMS"  heading_state="normal" color="#ffffffff" align="left" heading_typo="Source Sans Pro,28,,600,,,Solid,,,," ele_padding="0%,0%,0%,0%" ele_margin="0px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+twice the capacity".[/pl_heading]
+[pl_text pagelayer-id="WLdLdYnoXnNzkPWd"  ele_padding="0%,25%,0%,0%" animation="fadeInUp" animation_delay="800" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#fff;line-height:1.5;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin.</p>[/pl_text]
+[pl_text pagelayer-id="j5IT8wdBzqj9lXwB"  ele_padding="0%,10%,0%,0%" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#fff;line-height:1.5;">Harvey Derwent, Resident master</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="ZmQcYLjQIbo3kybH"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="bgAmRo7fKhuClBsW"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="yCoOheMv7E7OPrhF"  heading_state="normal" color="#010101ff" align="center" heading_typo="Source Sans Pro,40,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,," ele_padding="0%,0%,0%,0%"]
+
+Our Team[/pl_heading]
+[pl_text pagelayer-id="vZsiBKBv5l1gCup8"  ele_padding="0%,26%,0%,26%" animation="fadeInUp" animation_delay="700" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#000;line-height:1.5;text-align:center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi.</p>[/pl_text]
+[pl_inner_row pagelayer-id="VeHVwixPifAjK18Y"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="30px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="t9j0DOkbhn1sw7rT"  widget_space="15" overlay_hover_delay="400" animation="fadeInLeft" animation_delay="600" animation_speed="slowest" col_width="33" col_width_mobile="100"]
+[pl_service pagelayer-id="ARSlxpyVp8y0WUal"  service_image="{{theme_url}}/images/team6.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="joshua lapinsky" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#010101ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,,Capitalize,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="200" service_image_height="200" img_border_type="solid" img_border_color="#0986c0" img_border_radius="50%,50%,50%,50%" service_heading_typo_mobile=",18,,,,,Solid,,,," service_image_custom_size_mobile="100" service_image_height_mobile="100" service_image_custom_size_tablet="150" service_image_height_tablet="150" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.8;">Design Lead</p>[/pl_service]
+[pl_social_grp pagelayer-id="PAj9we5ceG1ReIWw"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="10" icon_size="18" color_scheme="" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff"]
+[pl_social pagelayer-id="e9v05duhCUhIz9k9"  icon="fab fa-dribbble" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="0xiQGa8kILIgJMPG"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="KJO9r6Y0JpDiGsIb"  icon="fab fa-github" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="MRVBO2fXzSZ7hZxq"  widget_space="15" overlay_hover_delay="400" animation="fadeInUp" animation_delay="800" animation_speed="slowest" col_width="33" col_width_mobile="100"]
+[pl_service pagelayer-id="KHkJiqNCbnYkrIJe"  service_image="{{theme_url}}/images/team3.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Glenda Spence" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#010101ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,,Capitalize,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="200" service_image_height="200" img_border_type="solid" img_border_color="#0986c0" img_border_radius="50%,50%,50%,50%" service_image_custom_size_mobile="100" service_image_height_mobile="100" service_heading_typo_mobile=",18,,,,,Solid,,,," service_image_custom_size_tablet="150" service_image_height_tablet="150" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.8;">Co-Founder & CEO</p>[/pl_service]
+[pl_social_grp pagelayer-id="0zRsb2jt9u8OsImN"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="10" icon_size="18" color_scheme="" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff"]
+[pl_social pagelayer-id="P3TRUcKN8A2kxOg0"  icon="fab fa-dribbble" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="nuKg8sRol1kUMLhR"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="6rUHXRwnt5IBaBDn"  icon="fab fa-github" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="LY8uXCbYdXroxY0F"  widget_space="15" overlay_hover_delay="400" animation="fadeInRight" animation_delay="700" animation_speed="slowest" col_width="33" col_width_mobile="100"]
+[pl_service pagelayer-id="1DUEexQZWigQbf0n"  service_image="{{theme_url}}/images/team4.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Michael Trossino" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#010101ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,,Capitalize,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="200" service_image_height="200" img_border_type="solid" img_border_color="#0986c0" img_border_radius="50%,50%,50%,50%" service_image_custom_size_mobile="100" service_image_height_mobile="100" service_heading_typo_mobile=",18,,,,,Solid,,,," service_image_custom_size_tablet="150" service_image_height_tablet="150" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.8;">Co-Founder</p>[/pl_service]
+[pl_social_grp pagelayer-id="nIno1XGOTmrT2RPF"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="10" icon_size="18" color_scheme="" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff"]
+[pl_social pagelayer-id="I3zgzLrf3yKi97CY"  icon="fab fa-dribbble" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="sz34hR405105v4dW"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="hDok8qwaDmkIPQBR"  icon="fab fa-github" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="x2Sg51M6AJKBgRRi"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="p43rL91zPXrPfJHI"  widget_space="15" overlay_hover_delay="400" animation="fadeInLeft" animation_delay="600" animation_speed="slowest" col_width="33" col_width_mobile="100"]
+[pl_service pagelayer-id="nHQtwi2VpUfmQ4YQ"  service_image="{{theme_url}}/images/team1.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Karina Messopine" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#010101ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,,Capitalize,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="200" service_image_height="200" img_border_type="solid" img_border_color="#0986c0" img_border_radius="50%,50%,50%,50%" service_image_custom_size_mobile="100" service_image_height_mobile="100" service_heading_typo_mobile=",18,,,,,Solid,,,," service_image_custom_size_tablet="150" service_image_height_tablet="150" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.8;">Design Lead</p>[/pl_service]
+[pl_social_grp pagelayer-id="qsKu5BzvMzroTc7T"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="10" icon_size="18" color_scheme="" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff"]
+[pl_social pagelayer-id="uOKMVv7nN94B0MJR"  icon="fab fa-dribbble" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="eA6C0hM4G1d36YKy"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="SDyhULe498QQThWx"  icon="fab fa-github" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="h9qOqTumaNxkdF4W"  widget_space="15" overlay_hover_delay="400" animation="fadeInUp" animation_delay="800" animation_speed="slowest" col_width="33" col_width_mobile="100"]
+[pl_service pagelayer-id="P4OPwKoeqZF52ezL"  service_image="{{theme_url}}/images/team2.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Patrik Janssen" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#010101ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,,Capitalize,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="200" service_image_height="200" img_border_type="solid" img_border_color="#0986c0" img_border_radius="50%,50%,50%,50%" service_image_custom_size_mobile="100" service_image_height_mobile="100" service_heading_typo_mobile=",18,,,,,Solid,,,," service_image_custom_size_tablet="150" service_image_height_tablet="150" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.8;">Experience Designer</p>[/pl_service]
+[pl_social_grp pagelayer-id="KB3LRQvDD3k3eO3a"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="10" icon_size="18" color_scheme="" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff"]
+[pl_social pagelayer-id="rXkRBUqYl42gTOG3"  icon="fab fa-dribbble" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="WboSGCzWfAeeniGh"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="X2nSKempdv8sTXQB"  icon="fab fa-github" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="pV0sl5EfxYSvnAQw"  widget_space="15" overlay_hover_delay="400" animation="fadeInRight" animation_delay="700" animation_speed="slowest" col_width="33" col_width_mobile="100"]
+[pl_service pagelayer-id="GHfWYpaWSlO3IJ0X"  service_image="{{theme_url}}/images/team5.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="joshua lapinsky" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#010101ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,,Capitalize,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_image_custom_size="200" service_image_height="200" img_border_type="solid" img_border_color="#0986c0" img_border_radius="50%,50%,50%,50%" service_image_custom_size_mobile="100" service_image_height_mobile="100" service_heading_typo_mobile=",18,,,,,Solid,,,," service_image_custom_size_tablet="150" service_image_height_tablet="150" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.8;">Design Lead</p>[/pl_service]
+[pl_social_grp pagelayer-id="DXWg3bnvrPHNkKst"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="10" icon_size="18" color_scheme="" icon_color="#333333" social_hover_delay="400" icon_color_hover="#ffffff"]
+[pl_social pagelayer-id="oqkGA15Kxgc1Qjrv"  icon="fab fa-dribbble" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="Q5vS6W3x0fgihnrD"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="yTSXuuBBchlC57cS"  icon="fab fa-github" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]

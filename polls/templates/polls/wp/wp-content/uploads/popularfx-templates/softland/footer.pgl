@@ -1,0 +1,81 @@
+[pl_row pagelayer-id="mQJ6H7kMBCBKLIyV"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#e81a1cff" ele_padding="60px,0px,60px,0px" ele_padding_mobile="30px,0px,30px,0px" ele_padding_tablet="40px,0px,40px,0px"]
+[pl_col pagelayer-id="vmYo5yYdDwEa3PgI"  widget_space="15" overlay_hover_delay="400" col_width_mobile="100" col_width="23"]
+[pl_wp_title pagelayer-id="w1YYYxTqRDU4erGs"  site_name="Softland" site_title_state="normal" text-align="left" title_padding="0,0,0,0" site_title_style="Source Sans Pro,28,,600,,,Solid,,,," title_color="#ffffffff" site_title_style_mobile=",22,,,,,Solid,,,," site_title_style_tablet=",24,,,,,Solid,,,,"]
+[/pl_wp_title]
+[pl_text pagelayer-id="7uKCqc8q9x4aoybW"  ele_padding="0%,0%,0%,0%"]
+
+
+<p style="font-family:Source sans pro;font-size:14px;font-weight:400;color:#fff;line-height:1.5;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi.</p>[/pl_text]
+[pl_social_grp pagelayer-id="rIvFAKIEiMiJ516u"  align="left" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="15" icon_size="18" color_scheme="" icon_color="#ffffffff" social_hover_delay="600" icon_color_hover="#ffffff" social_hover="hover" anim_hover="float" icon_size_mobile="14" icon_size_tablet="14" icon_spacing_tablet="10" icon_spacing_mobile="11"]
+[pl_social pagelayer-id="36yoi6C2oBdPoHjh"  icon="fab fa-facebook-f" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="Wbyc3vFQ1PtTOc3O"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="e3oCjkCIEyo2ezj8"  icon="fab fa-instagram" social_url="https://www.instagram.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="BpFH806BxCMF93Rk"  icon="fab fa-linkedin-in" social_url="https://in.linkedin.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[pl_col pagelayer-id="H0A2mXYZpXregFTV"  widget_space="15" overlay_hover_delay="400" col_width_mobile="100" col_width="14"]
+[pl_heading pagelayer-id="KKMDFSr3Ix2TFVig"  heading_state="normal" color="#ffffffff" heading_typo="Source Sans Pro,20,,600,,,Solid,,,,"]
+
+
+Pages[/pl_heading]
+[pl_list pagelayer-id="2aaus5mSwUoexs5S"  list_type="none" spacing="15" list_text_state="normal" item_indent="10" list_icon_state="normal" icon_color="#0986c0" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" list_color="#ffffffff" list_typo="Source Sans Pro,15,,600,,,Solid,,Capitalize,," ele_padding="0px,0px,0px,0px" ele_margin="0px,0px,0px,-10px" list_typo_tablet=",14,,,,,Solid,,,," list_typo_mobile=",14,,,,,Solid,,,,"]
+[pl_list_item pagelayer-id="rKriWPZdGjm1ivLk"  show_icon="" icon="fas fa-star"]
+
+
+Company[/pl_list_item]
+[pl_list_item pagelayer-id="C79tEbHCIuc7PTd6"  show_icon="" icon="fas fa-star"]
+
+
+Blog[/pl_list_item]
+[pl_list_item pagelayer-id="L54XxjWUzRiDHoLD"  show_icon="" icon="fas fa-star"]
+
+
+documentation[/pl_list_item]
+[pl_list_item pagelayer-id="n9ebpQWANA1IMQSY"  show_icon="" icon="fas fa-star"]
+
+
+careers[/pl_list_item]
+[pl_list_item pagelayer-id="NU4xPgxBn3sjIcsj"  show_icon="" icon="fas fa-star"]
+
+
+case studies[/pl_list_item]
+[pl_list_item pagelayer-id="pO5DJLwrA0ekMYOZ"  show_icon="" icon="fas fa-star"]
+
+
+pricing[/pl_list_item]
+[/pl_list]
+[/pl_col]
+[pl_col pagelayer-id="ksWPXioPR3FtQLKi"  widget_space="15" overlay_hover_delay="400" col_width_mobile="100" col_width="28"]
+[pl_heading pagelayer-id="Uo6zXbtN5LBFC4JS"  heading_state="normal" color="#ffffffff" heading_typo="Source Sans Pro,20,,600,,,Solid,,Capitalize,,"]
+
+
+articles[/pl_heading]
+[pl_service pagelayer-id="BLd1u18Q4CKUvjzp"  service_image="{{theme_url}}/images/image1.jpg" service_image_size="full" service_alignment="left" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Introducing the new jumpstart brand" heading_alignment="left" service_title_spacing="10,50,0,20" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Source Sans Pro,15,,600,,,Solid,1.5,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" service_image_height="80" service_image_object_fit="cover" img_border_color="#e81a1cff" img_border_width="0,0,0,0" img_border_radius="0px,0px,0px,0px" service_content_spacing="5,0,0,20" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-small" service_button_text="learn more..." service_button_url="#" service_btn_state="normal" service_button_color="#e81a1cff" service_button_bg_color="#00000000" service_button_typo="Source Sans Pro,14,,600,,,Solid,,,," service_btn_spacing="0,0,0,-15" ele_padding="0px,0px,0px,0px" service_image_custom_size="177" ele_margin="0px,0px,0px,0px" service_image_spacing="0,0,0,0" service_image_height_tablet="80" service_heading_typo_tablet=",14,,,,,Solid,,,," service_title_spacing_tablet="0,0,0,10" service_content_spacing_tablet="0,0,0,10" service_heading_typo_mobile=",14,,,,,Solid,,,,"]
+
+
+<p style="font-family:Source sans pro;font-size:13px;font-weight:400;color:#ddd;line-height:1.5">August 6, 2019</p>[/pl_service]
+[pl_service pagelayer-id="GLv5gSk3qwRCgDRZ"  service_image="{{theme_url}}/images/image3.jpg" service_image_size="full" service_alignment="left" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Introducing the new jumpstart brand" heading_alignment="left" service_title_spacing="10,50,0,20" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo="Source Sans Pro,15,,600,,,Solid,1.5,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" service_image_height="80" service_image_object_fit="cover" img_border_color="#e81a1cff" img_border_width="0,0,0,0" img_border_radius="0px,0px,0px,0px" service_content_spacing="5,0,0,20" service_button="true" service_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-small" service_button_text="learn more..." service_button_url="#" service_btn_state="normal" service_button_color="#e81a1cff" service_button_bg_color="#00000000" service_button_typo="Source Sans Pro,14,,600,,,Solid,,,," service_btn_spacing="0,0,0,-15" ele_margin="-35px,0px,0px,0px" ele_margin_mobile="-40px,0px,-40px,0px" service_title_spacing_tablet="0,0,0,10" service_heading_typo_tablet=",14,,,,,Solid,,,," service_content_spacing_tablet="0,0,0,10" service_heading_typo_mobile=",14,,,,,Solid,,,," ele_margin_tablet="-60px,0px,-60px,0px"]
+
+
+<p style="font-family:Source sans pro;font-size:13px;font-weight:400;color:#ddd;line-height:1.5">August 6, 2019</p>[/pl_service]
+[/pl_col]
+[pl_col pagelayer-id="DJLw43vgL5Xuldpd"  widget_space="15" overlay_hover_delay="400" col_width_mobile="100" col_width="35"]
+[pl_heading pagelayer-id="yemensV9zPVkTkuB"  heading_state="normal" color="#ffffffff" heading_typo="Source Sans Pro,20,,600,,,Solid,,Capitalize,,"]
+
+
+Newsletter[/pl_heading]
+[pl_contact pagelayer-id="3Zi7CTXRD8xJRaCF"  form="contact-form" name="Contact Form" form_position="default" space_label=",,10," input_state="normal" input_padding="10,10" radio_padding="10,10" field_hover_delay="400" submit="Go" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" con_post_id="3038" form_placeholder_color="#5d5d5db0" placeholder_typo="Source Sans Pro,12,,400,,,Solid,,,," form_label_color="#ffffffff" label_typo="Source Sans Pro,15,,600,,,Solid,,,," btn_typo="Source Sans Pro,16,,600,,,Solid,,Capitalize,," btn_bg_color="#e81a1cff" btn_color="#ffffff" ele_padding="35px,25px,35px,25px" ele_bg_type="color" ele_bg_color="#e23a39ff" btn_border_type="solid" btn_border_color="" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" field_border_color="#e81a1cff" field_border_type="solid" field_border_width="1,1,1,1" field_border_radius="0,0,0,0" label_typo_tablet=",14,,,,,Solid,,,," label_typo_mobile=",14,,,,,Solid,,,,"]
+[pl_contact_item pagelayer-id="IeTDder4OVofMCEX"  label_name="Get  a bi-weekly digest  of great articles" field_type="text" values="One
+Two" field_name="Fieldname" field_width="100" space_between=",,10," placeholder="Email Address"]
+[/pl_contact_item]
+[/pl_contact]
+[pl_heading pagelayer-id="hVxXW0wn0RHtmZm8"  heading_state="normal" color="#ffffffff" heading_typo="Source Sans Pro,15,,600,,,Solid,,,," heading_typo_tablet=",14,,,,,Solid,,,," heading_typo_mobile=",14,,,,,Solid,,,,"]
+
+
+We'll never share your email address[/pl_heading]
+[/pl_col]
+[/pl_row]

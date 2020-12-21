@@ -1,0 +1,17 @@
+carprices-2020_4_1T1_23.csv
+carprices-2020_5_1T1_23.csv
+carprices-2020_6_1T1_23.csv
+carprices-2020_6_1T1_24.csv
+carprices-2020_7_27T19_48.csv
+carprices-2020_7_27T19_50.csv
+carprices-2020_7_30T10_39.csv
+carprices-2020_7_30T9_50.csv
+carprices-2020_8_27T22_38.csv
+carprices-2020_8_4T10_45.csv
+carprices-2020_8_4T10_47.csv
+carprices-2020_8_4T10_52.csv
+carprices-2020_9_16T9_1.csv
+carprices-2020_9_19T23_0.csv
+carprices-2020_9_3T10_0.csv
+carprices-2020_9_3T13_21.csv
+carprices-2020_9_6T17_21.csv

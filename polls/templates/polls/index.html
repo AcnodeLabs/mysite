@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+
+<html>
+<title>AlgeFramwwork (c) 2018 Acnodelabs Inc</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size: 16px;}
+img {margin-bottom: -8px;}
+.mySlides {display: none;}
+
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+
+</style>
+
+<script type="text/javascript"src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+<script type="text/javascript">
+(function() {
+emailjs.init("user_ab4CmqX8EHVpBelFRwNme");
+})();
+</script>
+<body class="w3-content w3-black" style="max-width:1500px;">
+
+<!-- Header with Slideshow -->
+<header class="w3-display-container w3-center">
+  <!-- <button class="w3-button w3-block w3-green w3-hide-large w3-hide-medium" onclick="document.getElementById('download').style.display='block'">Download <i class="fa fa-apple"></i> <i class="fa fa-windows"></i></button> -->
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="/static/polls/w3images/navi.jpeg" alt="Image 3" style="min-width:500px" width="1500" height="1000">
+    <div class="w3-display-left w3-padding w3-hide-small" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
+        <h1 class="w3-xlarge">Develop Native High Performance Cross Platform 3D Apps</h1>
+        <hr class="w3-opacity">
+        <p>JD2 Release 2018 of AlgeFramework is Available</p>
+        <!-- <p><button class="w3-button w3-block w3-indigo w3-round" onclick="#Pricing">Download<i class="fa fa-apple"></i> <i class="fa fa-windows"></i></button></p> -->
+      </div>
+    </div>
+  </div>
+
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="/static/polls/w3images/vs.png" alt="Image 2" style="min-width:500px" width="1500" height="1000">
+    <div class="w3-display-left w3-padding w3-hide-small" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
+        <h1 class="w3-xlarge w3-text-red">Stick to best in class development workflows (Develop using Microsoft Tools, Package using Apple Tools)</h1>
+        <hr class="w3-opacity">
+        <p>Cross Platform (Windows, macOS, iOS), Cross IDE (Visual Studio and XCode)</p>
+        <!-- <p><button class="w3-button w3-block w3-red w3-round" onclick="document.getElementById('download').style.display='block'">Download <i class="fa fa-apple"></i> <i class="fa fa-windows"></i></button></p> -->
+      </div>
+    </div>
+  </div>
+
+
+   <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="w3images/others.png" alt="Image 3" style="min-width:500px" width="1500" height="1000">
+    <div class="w3-display-left w3-padding w3-hide-small" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
+        <h1 class="w3-xlarge">Easy Code level Integration with C++ based Thirdparty engines </h1>
+        <hr class="w3-opacity">
+        <p>Assimp/ PhysX/ Irrlicht/ FMod / OpenAL or Use inluded mimimalistic Funkit Classlets</p>
+        <!-- <p><button class="w3-button w3-block w3-indigo w3-round" onclick="document.getElementById('download').style.display='block'">Download <i class="fa fa-apple"></i> <i class="fa fa-windows"></i></button></p> -->
+      </div>
+    </div>
+  </div>
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="w3images/app.png" alt="Image 1" style="min-width:500px" width="1500" height="1000">
+    <div class="w3-display-left w3-padding w3-hide-small" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
+        <h1 class="w3-xlarge">Unwrapped API Access, Debug Natively</h1>
+        <hr class="w3-opacity">
+        <p>Portable Base : C/C++ and OpenGL</p>
+        <!-- <p><button class="w3-button w3-block w3-green w3-round" onclick="document.getElementById('download').style.display='block'">Download <i class="fa fa-apple"></i> <i class="fa fa-windows"></i></button></p> -->
+      </div>
+    </div>
+  </div>
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="w3images/comm.png" alt="Image 3" style="min-width:500px" width="1500" height="1000">
+    <div class="w3-display-left w3-padding w3-hide-small" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
+        <h1 class="w3-xlarge">NATS interoperability</h1>
+        <hr class="w3-opacity">
+        <p>Connect to Microservices/ Build Multiplayer Games / Provide Remote Monitoring and Control Feautures</p>
+        <!-- <p><button class="w3-button w3-block w3-indigo w3-round" onclick="document.getElementById('download').style.display='block'">Download  <i class="fa fa-apple"></i> <i class="fa fa-windows"></i></button></p> -->
+      </div>
+    </div>
+  </div>
+  <div class="mySlides w3-animate-opacity">
+    <img class="w3-image" src="w3images/srccode.jpg" alt="Image 3" style="min-width:500px" width="1500" height="1000">
+    <div class="w3-display-left w3-padding w3-hide-small" style="width:35%">
+      <div class="w3-black w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
+        <h1 class="w3-xlarge">No Hidden Closets</h1>
+        <hr class="w3-opacity">
+        <p>Full Source Code down to the Core</p>
+        <!-- <p><button class="w3-button w3-block w3-indigo w3-round" onclick="document.getElementById('download').style.display='block'">Download  <i class="fa fa-apple"></i> <i class="fa fa-windows"></i></button></p> -->
+      </div>
+    </div>
+  </div>
+  <a class="w3-button w3-black w3-display-right w3-margin-right w3-round w3-hide-small w3-hover-light-grey" onclick="plusDivs(1)">More Features <i class="fa fa-angle-right"></i></a>
+  <a class="w3-button w3-block w3-black w3-hide-large w3-hide-medium" onclick="plusDivs(1)">More Features <i class="fa fa-angle-right"></i></a>
+</header>
+
+<!-- The App Section -->
+<div class="w3-padding-64 w3-white">
+  <div class="w3-row-padding">
+    <div class="w3-col l8 m6">
+      <h1 class="w3-jumbo"><b>AlgeFramework</b></h1>
+      <h1 class="w3-xxxlarge w3-text-green"><b>Why use it?</b></h1>
+      <p><span class="w3-xlarge">Jumpstart Your 3D Graphics Team.</span> Developing 3D Graphics Apps has several barriers and a steep learning effort. Let your team concentrate on the rendering stuff and avoid all OS Boilerplate code. Focus on App logic and rendering stuffs and Call OS functions in a unified way. Develop on Windows, Publish on MSFT and AAPL stores</p>
+      <p>Available for <i class="fa fa-apple w3-xlarge"></i> <i class="fa fa-windows w3-xlarge w3-text-blue"></i></p>
+    </div>
+    <div class="w3-col l4 m6">
+      <img src="/static/polls/w3images/jd2.png" class="w3-image w3-right w3-hide-small" width="335" height="400">
+      <div class="w3-center w3-hide-large w3-hide-medium">
+        <button class="w3-button w3-block w3-padding-large" onclick="document.getElementById('download').style.display='block'">
+          <i class="fa fa-download"></i> Download </button>
+        <img src="w3images/JD2.png" class="w3-image w3-margin-top" width="335" height="400">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div id="download" class="w3-modal w3-animate-opacity">
+  <div class="w3-modal-content" style="padding:32px">
+    <div class="w3-container w3-white">
+      <i onclick="document.getElementById('download').style.display='none'" class="fa fa-remove w3-xlarge w3-button w3-transparent w3-right w3-xlarge"></i>
+      <h2 class="w3-wide">Little Bit about yourself</h2>
+      <p>We would like to know your name and email to proceed. You will be emailed a Download Link after u place the Order</p>
+       <i class="fa fa-address-card w3-large"></i>       <i class="fa fa-envelope w3-large"></i>
+      <p><input id='nameofparty' class="w3-input w3-border" type="text" placeholder="Full Name"></p>
+      <p><input id='emailofparty' class="w3-input w3-border" type="text" placeholder="Enter e-mail"></p>
+      <p>Please choose one of the purchase options, you will be directed to payment processing page:</p>
+      <button type="button" class="w3-button w3-block w3-padding-large w3-orange w3-margin-bottom" onclick="order_starter_kit()">Order Starter Kit $49</button>
+      <button type="button" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="order_full_sdk()">Order Full SDK $499</button>
+      <script>
+      
+      function order_full_sdk() {
+        if (confirm("You have selected $499 Full SDK, proceed?"))
+          window.location.replace("https://secure.2checkout.com/checkout/buy?merchant=250360109035&tpl=default&prod=W3BQ7YIGM6&qty=1");
+      }
+
+      function order_starter_kit() {
+        if (confirm("You have selected $49 Starter Kit, proceed?"))
+          window.location.replace("https://secure.2checkout.com/checkout/buy?merchant=250360109035&tpl=default&prod=A9KDY5N7SH&qty=1");
+      }
+
+      function callSendNotification() {
+        var nameofparty1 = document.getElementById('nameofparty').value;
+        var emailofparty1 = document.getElementById('emailofparty').value;
+        if (nameofparty1.length<1) {
+          alert("We would like to know your name");
+          return;
+        }
+        if (emailofparty1.length<1) {
+          alert("Email is required for entitlement of support");
+          return;
+        }
+        sendNotification( document.getElementById('nameofparty').value, document.getElementById('emailofparty').value);
+        document.getElementById('download').style.display='none';
+      }
+      </script>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div id="downloadcfm" class="w3-modal w3-animate-opacity">
+  <div class="w3-modal-content" style="padding:32px">
+    <div class="w3-container w3-white">
+      <i onclick="document.getElementById('downloadcfm').style.display='none'" class="fa fa-remove w3-xlarge w3-button w3-transparent w3-right w3-xlarge"></i>
+      <hr>
+      <h2 class="w3-wide">SELECT LICENSE TYPE</h2>
+      <hr>
+      <hr>
+      <i class="fa fa-apple w3-large"></i>    <i class="fa fa-windows w3-large"></i>    <i class="fa fa-cloud w3-large"></i>     <i class="fa fa-desktop w3-large"></i>     <i class="fa fa-mobile w3-large"></i>
+      <button type="button" class="w3-button w3-block w3-padding-large w3-dark-grey w3-margin-bottom" onclick="document.getElementById('downloadfree').style.display='block'">Starter Pack</button>
+      <hr>
+      <i class="fa fa-apple w3-large"></i>    <i class="fa fa-windows w3-large"></i>    <i class="fa fa-cloud w3-large"></i>     <i class="fa fa-desktop w3-large"></i>     <i class="fa fa-mobile w3-large"></i>
+      <button type="button" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('downloadpremium').style.display='block'">Complete SDK</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div id="loader" class="w3-modal w3-center w3-black w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
+      <center>
+      <div class="loader"></div> 
+    </center>
+  
+</div>
+
+  <div id="downloadpremium" class="w3-modal w3-animate-opacity">
+      
+      <div class="w3-modal-content" style="padding:2px">
+        <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-109439935" itemscope itemtype="http://schema.org/Product" data-single-product-id="109439935">
+          <i onclick="document.getElementById('downloadpremium').style.display='none'" class="fa fa-remove w3-xlarge w3-button w3-right w3-xlarge"></i>
+          <div itemprop="image"></div>
+          <div class="ecwid-title" itemprop="name" content="AlgeFramework JD2 Release (iOS, macOS, Windows)"></div>
+          <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
+            <div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="99">
+              <div itemprop="priceCurrency" content="USD"></div></div></div><div customprop="addtobag"></div>
+            </div>
+            <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?10179043&data_platform=singleproduct_v2" charset="utf-8"></script>
+            <script type="text/javascript">xProduct()</script>
+      </div>
+    </div>
+
+  <div id="downloadfree" class="w3-modal w3-animate-opacity">
+      <div class="w3-modal-content" style="padding:2px">
+      <div class="w3-container w3-white">
+        <i onclick="document.getElementById('downloadfree').style.display='none'" class="fa fa-remove w3-xlarge w3-button w3-transparent w3-center w3-xlarge"></i>
+        <center><p>By clicking download, you agree to pay 5% royalty on yearly revenue</p>
+        <a href="https://goo.gl/tuQwkT"><h3>AlgeFramework JD2 Release (Pay Later)</h3></a>
+      </center>
+      </div>
+    </div>
+  </div>
+    
+
+<!-- Clarity Section -->
+<div class="w3-padding-64 w3-light-grey">
+  <div class="w3-row-padding">
+    <div class="w3-col l4 m6">
+      <img class="w3-image w3-round-large w3-hide-small w3-grayscale" src="w3images/3.png" alt="App" width="360" height="213">
+    </div>
+    <div class="w3-col l8 m6">
+      <h2 class="w3-large"><b>Portability without Overhead</b></h2>
+      <p><span>AlgeFramework does not provide you a wrapped up interface, emlulators or simulators like other SDK's, your app is built Natively, tested Nateively and Run Natively, Your app issues API calls directly while AlgeFrameworks provides for calling OS intrinsics in a unified way, it provides you real time information (time / sensor data) alongwith each frame for update logic, pushes all system events (screen/ keyboard/ mouse/ touch events) ia a Queue to be processed at App's convenience. It does not wrap low level API, it facilities your issuance of low level calls. Base Framework uses portable technologies (OpenGL and C++). Performs all Platform Dependent Code and lets the App do the rest.</span> </p>
+    </div>
+  </div>
+</div>
+
+<!-- Features Section -->
+<div class="w3-container w3-padding-64 w3-indigo w3-center">
+  <h1 class="w3-jumbo"><b>Features</b></h1>
+ 
+
+  <div class="w3-row" style="margin-top:64px">
+      <center>
+    <div class="w3-col s3">
+      <i class="fa fa-bolt w3-text-orange w3-jumbo"></i>
+      <p>Fast</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fa fa-battery-full w3-text-green w3-jumbo"></i>
+      <p>Efficient</p>
+    </div>
+  <div class="w3-col s3">
+      
+      <i class="fa fa-unlock w3-text-blue w3-jumbo"></i>
+      <p>Open</p>
+    </div>
+    <div class="w3-col s3">
+        <i class="fa fa-angle-right w3-text-blue w3-jumbo"></i>
+        <p>Portable</p>
+      </div>
+    
+  </center>  
+   </div>
+  
+  <div class="w3-row" style="margin-top:64px">
+    <div class="w3-col s3">
+      <i class="fa fa-windows w3-text-orange w3-jumbo"></i>
+      <p>Windows</p>
+   </div>
+    <div class="w3-col s3">
+        <i class="fa fa-apple w3-text-grey w3-jumbo"></i>
+        <p>Apple</p>
+     </div>
+    <div class="w3-col s3">
+      <i class="fa fa-cloud w3-text-blue w3-jumbo"></i>
+      <p>Cloudready</p>
+      </div>
+  </div>
+</div>
+
+<!-- Pricing Section -->
+<div id="Pricing" class="w3-padding-64 w3-center w3-white">
+  <h1 class="w3-jumbo"><b>Pricing</b></h1>
+  <p class="w3-large">Choose a pricing plan that fits your needs.</p>
+  <div class="w3-row-padding" style="margin-top:64px">
+    <div class="w3-half w3-section">
+      <ul class="w3-ul w3-card w3-hover-shadow">
+        <li class="w3-orange w3-xlarge w3-padding-32">Starter Pack</li>
+        <li class="w3-padding-16"><b>Desktop (Windows)</b> Platform</li>
+        <li class="w3-padding-16"><b>Funkit</b> Included</li>
+        <li class="w3-padding-16"><b>-</b></li>
+        <li class="w3-padding-16"><b>10+ Feature</b> Samples</li>
+        <li class="w3-padding-16"><b>2x App</b> Samples</li>
+        <li class="w3-padding-16"><b>Email</b> Setup Support</li>
+        <li class="w3-padding-16"><b>-</b></li>
+          <li class="w3-padding-16">
+          <h2 class="w3-opacity"> $ 49, Upfront Payment with no royalty bindings</h2>
+        </li>
+        <li class="w3-light-grey w3-padding-24">
+          <button class="w3-button w3-black w3-padding-large" onclick="document.getElementById('download').style.display='block'"><i class="fa fa-download"></i> I am Interested</button>
+        </li>
+      </ul>
+    </div>
+    
+    <div class="w3-half w3-section">
+      <ul class="w3-ul w3-card w3-hover-shadow">
+        <li class="w3-red w3-xlarge w3-padding-32">Full SDK</li>
+        <li class="w3-padding-16"><b>Desktop (Windows, macOS) and Mobile (iOS, Android) </b> Platforms</li>
+        <li class="w3-padding-16"><b>Funkit</b> Included</li>
+        <li class="w3-padding-16"><b>NATS</b> Interface (Windows)</li>
+        <li class="w3-padding-16"><b>10+ Feature</b> Samples</li>
+        <li class="w3-padding-16"><b>2x App</b> Samples</li>
+        <li class="w3-padding-16"><b>Email</b> Setup Support</li>
+        <li class="w3-padding-16"><b>Remote Technical</b> Support</li>
+        <li class="w3-padding-16">
+          <h2 class="w3-opacity">$ 499, Upfront payment with no royalty bindings</h2>
+        </li>
+        <li class="w3-light-grey w3-padding-24">
+          <button class="w3-button w3-black w3-padding-large" onclick="document.getElementById('download').style.display='block'"> <i class="fa fa-download"></i> I am Interested</button>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <br>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-32 w3-light-grey w3-center w3-xlarge">
+  <div class="w3-section">
+    <a href='http://facebook.com/algesdk'><i class="fa fa-facebook-square w3-hover-opacity"></i></a>
+    <a href='http://twitter.com/algesdk'><i class="fa fa-twitter-square w3-hover-opacity"></i></a>
+  </div>
+  <p class="w3-medium">Patent Pending (C) <a href="http://acnodelabs.com" target="_blank" class="w3-hover-text-green">Acnodelabs</a> 2018</p>
+  <p class="w3-medium"><a href="policyP.html">Payment and Refund Policy</a></p>
+  <p class="w3-medium"><a href="privacyP.html">Privacy Policy</a></p>
+  <p class="w3-medium"><a href="Contact.html">Contact Us</a></p>
+</footer>
+
+<script>
+// Slideshow
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function sendNotification(nameofparty, emailofparty) {
+  var template_params = {
+        "from_name": 'three6tdegree@gmail.com',
+        "to_name": emailofparty,
+        "bcc": "three6tdegree@gmail.com",
+        "message_html": "Thank you for downloading JD2 of AlgeFramework !!<hr>In case of any support required you can contact me by replying to this email <hr> Happy Coding"
+     }
+     
+     var service_id = "service_uv2wyzr";
+     var template_id = "template_zf3oi29";
+     document.getElementById('loader').style.display='block'; 
+     emailjs.send(service_id,template_id,template_params)
+     .then(function(response) {
+      document.getElementById('downloadcfm').style.display='block';  
+      document.getElementById('download').style.display='none';
+      document.getElementById('loader').style.display='none'; 
+    }, function(error) {
+      document.getElementById('loader').style.display='none'; 
+      alert('Could not register Email ' + emailofparty);
+      document.getElementById('downloadcfm').style.display='none'; 
+      document.getElementById('download').style.display='none';
+    });
+     
+}
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+
+</script>
+
+</body>
+</html>

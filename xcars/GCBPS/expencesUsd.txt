@@ -1,0 +1,5 @@
+nayatel,21
+burger,5
+outing,40
+movefuel,20
+priusfuel,40

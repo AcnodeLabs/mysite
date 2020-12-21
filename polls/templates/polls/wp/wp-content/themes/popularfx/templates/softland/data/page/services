@@ -1,0 +1,273 @@
+[pl_post_props pagelayer-id="ExdMWmccMHAgydjU"  post_title="Services" post_name="services" post_status="publish" featured_image="" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="0v5fl94ssf6j0ccy" ]
+[pl_col pagelayer-id="zrcnqqtj178swnxj"  col="12"]
+[pl_text pagelayer-id="2c0c5kwgq6stscf8" ]
+
+
+
+[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="DFMNqDArRwImM54O"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/contactbg.jpg" ele_bg_posx="center" ele_bg_posy="bottom" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.3" overlay_color="#e81a1cff" ele_padding_mobile="75px,0px,75px,0px" ele_padding_tablet="100px,0px,100px,0px"]
+[pl_col pagelayer-id="evDkdS1BWyYpoB0g"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="lo8XASsEd99Qh12e"  heading_state="normal" color="#ffffffff" align="center" heading_typo="Source Sans Pro,40,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",30,,,,,Solid,,,,"]
+
+Services[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="yLmasQd3KORWL5a8"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="gbEETUbneKXJcZqS"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="LVszIdzOXuWFKSp4"  heading_state="normal" color="#010101ff" align="center" heading_typo="Source Sans Pro,40,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+Less work, more flow[/pl_heading]
+[pl_text pagelayer-id="vuHbnYJcJ8PnOTTn"  ele_padding="0%,26%,0%,26%" animation="fadeInUp" animation_delay="700" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#000;line-height:1.5;text-align:center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi.</p>[/pl_text]
+[pl_inner_row pagelayer-id="jY9VIR7sBG5ehHEh"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="30px,0px,0px,0px" ele_padding_mobile="15px,0px,0px,0px" ele_padding_tablet="10px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="xCs4HTuj9Im9FUvk"  widget_space="15" overlay_hover_delay="400" col_width="33" col_width_mobile="100"]
+[pl_iconbox pagelayer-id="fBgJzWFxWeQ71Y7K"  service_icon="fab fa-python" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#e81a1cff" service_icon_font_size="45" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Kyan Boards" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#101010ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,1.5,Capitalize,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,20,0,20" animation="fadeInLeft" animation_delay="600" animation_speed="slowest" service_icon_font_size_mobile="30" service_heading_typo_mobile=",18,,,,,Solid,,,," service_title_spacing_mobile="10,0,10,0" service_icon_font_size_tablet="35" service_heading_typo_tablet=",20,,,,,Solid,,,," service_title_spacing_tablet="10,0,10,0"]
+
+
+
+
+
+
+
+
+<p  style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="8jEg8zMVKsP0LvM9"  widget_space="15" overlay_hover_delay="400" col_width="33" col_width_mobile="100"]
+[pl_iconbox pagelayer-id="zrPciAeCZwwhvlrl"  service_icon="fab fa-gg-circle" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#e81a1cff" service_icon_font_size="45" service_icon_hover_delay="400" service_bor_state="normal" service_heading="atica" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#101010ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,1.5,Capitalize,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,20,0,20" animation="fadeInUp" animation_delay="800" animation_speed="slowest" service_icon_font_size_mobile="30" service_title_spacing_mobile="10,0,10,0" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_tablet="35" service_heading_typo_tablet=",20,,,,,Solid,,,," service_title_spacing_tablet="10,0,10,0"]
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="NPzAQWL1LxEG2Z06"  widget_space="15" overlay_hover_delay="400" col_width="33" col_width_mobile="100"]
+[pl_iconbox pagelayer-id="ORyAtW23yREyTw6C"  service_icon="fas fa-rocket" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#e81a1cff" service_icon_font_size="45" service_icon_hover_delay="400" service_bor_state="normal" service_heading="treva" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#101010ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,1.5,Capitalize,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,20,0,20" animation="fadeInRight" animation_delay="700" animation_speed="slowest" service_icon_font_size_mobile="30" service_title_spacing_mobile="10,0,10,0" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_tablet="35" service_heading_typo_tablet=",20,,,,,Solid,,,," service_title_spacing_tablet="10,0,10,0"]
+
+
+
+
+
+
+
+
+<p  style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="T2oXvjF6rKAPXUyV"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="15px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="pulhcuYBZrQZJD5s"  widget_space="15" overlay_hover_delay="400" col_width="33" col_width_mobile="100"]
+[pl_iconbox pagelayer-id="SrAlmt9voElzKsIv"  service_icon="fab fa-battle-net" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#e81a1cff" service_icon_font_size="45" service_icon_hover_delay="400" service_bor_state="normal" service_heading="kanba" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#101010ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,1.5,Capitalize,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,20,0,20" animation="fadeInLeft" animation_delay="600" animation_speed="slowest" service_icon_font_size_mobile="30" service_heading_typo_mobile=",18,,,,,Solid,,,," service_title_spacing_mobile="10,0,10,0" service_icon_font_size_tablet="35" service_title_spacing_tablet="10,0,10,0" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="H0ggpUdG6DhUmNzm"  widget_space="15" overlay_hover_delay="400" col_width="33" col_width_mobile="100"]
+[pl_iconbox pagelayer-id="R2VuNkW8L4stUAwt"  service_icon="fas fa-broadcast-tower" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#e81a1cff" service_icon_font_size="45" service_icon_hover_delay="400" service_bor_state="normal" service_heading="tvit forms" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#101010ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,1.5,Capitalize,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,20,0,20" animation="fadeInUp" animation_delay="800" animation_speed="slowest" service_icon_font_size_mobile="30" service_heading_typo_mobile=",18,,,,,Solid,,,," service_title_spacing_mobile="10,0,10,0" service_icon_font_size_tablet="35" service_title_spacing_tablet="10,0,10,0" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+<p  style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="XN5yR4PYIrqG7IKr"  widget_space="15" overlay_hover_delay="400" col_width="33" col_width_mobile="100"]
+[pl_iconbox pagelayer-id="kEnzFS6mqNyRTw7P"  service_icon="fas fa-spa" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#e81a1cff" service_icon_font_size="45" service_icon_hover_delay="400" service_bor_state="normal" service_heading="aven" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#101010ff" service_heading_typo="Source Sans Pro,22,,600,,,Solid,1.5,Capitalize,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="0,20,0,20" animation="fadeInRight" animation_delay="700" animation_speed="slowest" service_icon_font_size_mobile="30" service_title_spacing_mobile="10,0,10,0" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_tablet="35" service_heading_typo_tablet=",20,,,,,Solid,,,," service_title_spacing_tablet="10,0,10,0"]
+
+
+
+
+
+
+
+
+<p  style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="sg9jTQ7jzcyrKIRI"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#d9d9d9ff" content_pos="center" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="QkbJzHOniN4jE1S1"  widget_space="15" overlay_hover_delay="400" col_width="50" col_width_mobile="100"]
+[pl_image pagelayer-id="zfLwqHPotFn7lXpc"  id="{{theme_url}}/images/image6.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInLeft" animation_delay="600" animation_speed="slowest"]
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="qurbA82hmpXyzYXg"  widget_space="15" overlay_hover_delay="400" col_width="50" col_width_mobile="100"]
+[pl_heading pagelayer-id="pT4qYpGosTBhuk6C"  heading_state="normal" color="#010101ff" align="left" heading_typo="Source Sans Pro,28,,600,,,Solid,,,," ele_padding="0%,44%,0%,0%" ele_margin="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," ele_margin_mobile="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px" heading_typo_tablet=",20,,,,,Solid,,,," ele_padding_tablet="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+Save tons on design  and  development[/pl_heading]
+[pl_text pagelayer-id="VD2bkGybqiqD5KgT"  ele_padding="1%,35%,0%,0%" animation="fadeInUp" animation_delay="700" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:600;color:#000;line-height:1.5;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi.</p>[/pl_text]
+[pl_inner_row pagelayer-id="GAPecyzKkldbtm1k"  stretch="auto" col_gap="0" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="ZRa61lwNyukt3Djq"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_list pagelayer-id="Fx5ZXHjz52gDjzlO"  list_type="none" spacing="10" list_text_state="normal" item_indent="10" list_icon_state="normal" icon_color="#e81a1cff" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" icon_size="20" list_color="#010101ff" list_typo="Source Sans Pro,14,,400,,,Solid,,Capitalize,," animation="fadeInUp" animation_delay="800" animation_speed="slowest"]
+[pl_list_item pagelayer-id="E0qDCVGfYFYd2LR3"  show_icon="true" icon="fas fa-check-circle"]
+
+
+
+
+
+
+
+
+
+
+full responsive[/pl_list_item]
+[pl_list_item pagelayer-id="YhkgOxjYEvyTVyOK"  show_icon="true" icon="fas fa-check-circle" item_url=""]
+
+
+
+
+
+
+
+
+
+
+Modular Components[/pl_list_item]
+[/pl_list]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="eBw0kAx5USJGMGxj"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_list pagelayer-id="e7QwAAnkoRb9lgTT"  list_type="none" spacing="10" list_text_state="normal" item_indent="10" list_icon_state="normal" icon_color="#e81a1cff" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" icon_size="20" list_color="#010101ff" list_typo="Source Sans Pro,14,,400,,,Solid,,Capitalize,," animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+[pl_list_item pagelayer-id="MAEpHUGN96CL1op5"  show_icon="true" icon="fas fa-check-circle"]
+
+
+
+
+
+
+
+
+
+
+Multiple Layouts[/pl_list_item]
+[pl_list_item pagelayer-id="ZH8fWSHuEPEVeTkx"  show_icon="true" icon="fas fa-check-circle" item_url=""]
+
+
+
+
+
+
+
+
+
+
+suits your style[/pl_list_item]
+[/pl_list]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="FmtDaGAJOMZ44ZnP"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="fKCPm9zIlFk3LMgl"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="xDTAiZfJ4Wl3d6dn"  heading_state="normal" color="#010101ff" align="center" heading_typo="Source Sans Pro,40,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+People are diggin' it[/pl_heading]
+[pl_text pagelayer-id="mKcLCfzaFGYEOWQh"  ele_padding="0%,26%,0%,26%" animation="fadeInUp" animation_delay="700" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#000;line-height:1.5;text-align:center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi.</p>[/pl_text]
+[pl_testimonial_slider pagelayer-id="8QI76dYC1x3u3HMW"  slide_items="3" slide_margin="10" arrows_bg="#00000000" arraow_color="#e81a1cff" arraow_bg_size="20" arraow_bg_shape="20" nav_size="40" pager_color="#d9d9d9ff" active_pager_color="#e81a1cff" dot_size="10" active_dot_size="12" pager_top_space="15" slide_loop="true" ele_padding="30px,0px,0px,0px" animation="fadeInUp" animation_delay="800" animation_speed="slowest" ele_padding_mobile="10px,0px,0px,0px"]
+[pl_testimonial pagelayer-id="3DW3oFsOiAfUOMed"  image_position="top-position" alignment="center" author-spacing="30" avatar="{{theme_url}}/images/team4.jpg" testimonial_image_size="100" img_shape="circle" cite="Shellon" cite_color="#010101ff" cite_style="Source Sans Pro,16,,600,,,Solid,1.5,,," designation="Software engineer" designation_color="#010101ff" cite_designation_style="Source Sans Pro,16,,600,,,Solid,,Capitalize,," cite_spacing="15,0,0,0"]
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="qj9eUNbxRho8UVwo"  image_position="top-position" alignment="center" author-spacing="30" avatar="{{theme_url}}/images/team3.jpg" testimonial_image_size="100" img_shape="circle" cite="Marry Goddard" cite_color="#010101ff" cite_style="Source Sans Pro,16,,600,,,Solid,1.5,,," designation="Business Relations" designation_color="#010101ff" cite_designation_style="Source Sans Pro,16,,600,,,Solid,,Capitalize,," cite_spacing="15,0,0,0"]
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="etfeZNMvxTBk5Sj0"  image_position="top-position" alignment="center" author-spacing="30" avatar="{{theme_url}}/images/team6.jpg" testimonial_image_size="100" img_shape="circle" cite="Bradley Singleton" cite_color="#010101ff" cite_style="Source Sans Pro,16,,600,,,Solid,1.5,,," designation="keeper of tunes" designation_color="#010101ff" cite_designation_style="Source Sans Pro,16,,600,,,Solid,,Capitalize,," cite_spacing="15,0,0,0"]
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="wlAi1YxmiW5ajQyd"  image_position="top-position" alignment="center" author-spacing="30" avatar="{{theme_url}}/images/team1.jpg" testimonial_image_size="100" img_shape="circle" cite="Jane Smith" cite_color="#010101ff" cite_style="Source Sans Pro,16,,600,,,Solid,1.5,,," designation="Executive Designer" designation_color="#010101ff" cite_designation_style="Source Sans Pro,16,,600,,,Solid,,Capitalize,," cite_spacing="15,0,0,0"]
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="lfe6v7zNxRIo6WRb"  image_position="top-position" alignment="center" author-spacing="30" avatar="{{theme_url}}/images/team2.jpg" testimonial_image_size="100" img_shape="circle" cite="Brad Don" cite_color="#010101ff" cite_style="Source Sans Pro,16,,600,,,Solid,1.5,,," designation="Software engineer" designation_color="#010101ff" cite_designation_style="Source Sans Pro,16,,600,,,Solid,,Capitalize,," cite_spacing="15,0,0,0"]
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="23qbXq9PQPbnGet7"  image_position="top-position" alignment="center" author-spacing="30" avatar="{{theme_url}}/images/team5.jpg" testimonial_image_size="100" img_shape="circle" cite="Rosy Marry" cite_color="#010101ff" cite_style="Source Sans Pro,16,,600,,,Solid,1.5,,," designation="Software engineer" designation_color="#010101ff" cite_designation_style="Source Sans Pro,16,,600,,,Solid,,Capitalize,," cite_spacing="15,0,0,0"]
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="F0wmmzt6yfylSa3j"  image_position="top-position" alignment="center" author-spacing="30" avatar="{{theme_url}}/images/team4.jpg" testimonial_image_size="100" img_shape="circle" cite="Shellon" cite_color="#010101ff" cite_style="Source Sans Pro,16,,600,,,Solid,1.5,,," designation="Software engineer" designation_color="#010101ff" cite_designation_style="Source Sans Pro,16,,600,,,Solid,,Capitalize,," cite_spacing="15,0,0,0"]
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#5d5d5d;line-height:1.5;text-align:center;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "</p>[/pl_testimonial]
+[/pl_testimonial_slider]
+[/pl_col]
+[/pl_row]

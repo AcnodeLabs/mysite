@@ -1,0 +1,12 @@
+kamwali,10000
+milk,5000
+mali,3000
+gas,6000
+electric,6000
+petrol,9500
+movemaint,1500
+priusmaint,3500
+personals,10000
+fees,11000
+groceries,40000
+

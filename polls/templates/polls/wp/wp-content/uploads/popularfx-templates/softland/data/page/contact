@@ -1,0 +1,68 @@
+[pl_row pagelayer-id="q2xC6CsRdwNFWrhe"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/contactbg.jpg" ele_bg_posx="center" ele_bg_posy="bottom" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.3" overlay_color="#e81a1cff" ele_padding_mobile="75px,0px,75px,0px" ele_padding_tablet="100px,0px,100px,0px"]
+[pl_col pagelayer-id="FV1ryIhx4Q8tAzRj"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="wNoLa4TFUXTXcaDt"  heading_state="normal" color="#ffffffff" align="center" heading_typo="Source Sans Pro,40,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",30,,,,,Solid,,,,"]
+
+Contact Us[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="QinilPthsF9LkqCd"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="WMtrusoewmw0uZCG"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="aWGalGKmggavcJ0M"  heading_state="normal" color="#010101ff" align="center" heading_typo="Source Sans Pro,40,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+Get in Touch[/pl_heading]
+[pl_text pagelayer-id="gyBGDlECRKkXyN4U"  ele_padding="0%,26%,0%,26%" animation="fadeInUp" animation_delay="700" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+
+
+
+
+
+<p style="font-family:Source sans pro;font-size:15px;font-weight:400;color:#000;line-height:1.5;text-align:center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi.</p>[/pl_text]
+[pl_contact pagelayer-id="dkvtVLEJoLWki4p8"  form="contact-form" name="Contact Form" form_position="left" space_label=",,10," input_state="normal" input_padding="10,10" radio_padding="10,10" field_hover_delay="400" submit="Submit" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" con_post_id="3040" form_placeholder_color="" form_label_color="#5d5d5dff" label_typo="Source Sans Pro,15,,,,,Solid,1.5,Capitalize,," field_state="" field_border_type_focus="solid" field_border_color_focus="#e81a1cff" field_border_width_focus="1,1,1,1" field_border_type="solid" field_border_color="#ddddddff" field_border_width="1,1,1,1" field_border_radius="3,3,3,3" input_height="22" form_input_color="#010101ff" input_typo="Source Sans Pro,14,,400,,,Solid,1.5,,," ele_padding="30px,0px,0px,0px" contect_btn_align="center" btn_bg_color="#e81a1cff" btn_color="#ffffff" btn_typo="Source Sans Pro,15,,600,,,Solid,1,Capitalize,," animation="fadeInUp" animation_delay="800" animation_speed="slowest" label_typo_mobile=",12,,400,,,Solid,,,," btn_typo_mobile=",12,,,,,Solid,,,," ele_padding_mobile="15px,0px,0px,0px" label_typo_tablet=",13,,,,,Solid,,,," btn_typo_tablet=",13,,,,,Solid,,,,"]
+[pl_contact_item pagelayer-id="LGllp38yQcgI6y74"  label_name="Full Name" field_type="text" values="One
+Two" field_name="Fieldname" field_width="48" space_between="0,10,10,0" label_as_holder="" field_display="inline-block"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="yGZRzPJqAD6VPVwF"  label_name="Email Address" field_type="email" values="One
+Two" field_name="Fieldname" field_width="48" space_between="0,0,10,10" label_as_holder="" field_display="inline-block"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="PCQAcT2Hdz9Aqpoe"  label_name="Company" field_type="text" values="One
+Two" field_name="Fieldname" field_width="48" space_between="0,10,10,0" label_as_holder="" field_display="inline-block"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="V1sD82kfFcTVPjCG"  label_name="Phone" field_type="text" values="One
+Two" field_name="Fieldname" field_width="48" space_between="0,0,10,10" label_as_holder="" field_display="inline-block"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="jaAgDOJWAzIPeO4d"  label_name="Write a Message" field_type="textarea" values="One
+Two" field_name="Fieldname" field_width="96" space_between="0,0,30,0" textarea_rows="6"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="x3MNzY1ACRb6vPJP"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_col pagelayer-id="1po3iwx0mFzw2R9J"  widget_space="15" overlay_hover_delay="400"]
+[pl_google_maps pagelayer-id="b5YMMdCgmdkS1VLw"  zoom="10" height="350" animation="fadeInUp" animation_delay="600" animation_speed="slowest" height_mobile="250" height_tablet="300"]
+New York, New York, USA[/pl_google_maps]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="PSQ44Yo4d1f6iAqn"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="100px,0px,100px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="Vl4AeSLQAJoNmrhX"  widget_space="15" overlay_hover_delay="400" col_width="33" animation="fadeInLeft" animation_delay="600" animation_speed="slowest" col_width_mobile="100" ele_padding_mobile="0px,0px,15px,0px"]
+[pl_heading pagelayer-id="kLMUxyW8Lm2ZwBaW"  heading_state="normal" color="#010101ff" align="center" heading_typo="Source Sans Pro,24,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+Email Us[/pl_heading]
+[pl_email pagelayer-id="SAgTXGx2aFmtMNwO"  icon="fas fa-envelope" icon_color="#e81a1cff" icon_size="22" space="15" color="#5d5d5dff" typography="Source Sans Pro,15,,,,,Solid,1.5,,," align="center" ele_padding="10px,0px,0px,0px" icon_size_mobile="18" icon_size_tablet="20"]
+[/pl_email]
+[/pl_col]
+[pl_col pagelayer-id="jVUUDkjwcgMQNc6y"  widget_space="15" overlay_hover_delay="400" col_width="33" animation="fadeInUp" animation_delay="800" animation_speed="slowest" col_width_mobile="100" ele_padding_mobile="0px,0px,15px,0px"]
+[pl_heading pagelayer-id="VL4ZTvoi3gG9GVYA"  heading_state="normal" color="#010101ff" align="center" heading_typo="Source Sans Pro,24,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+Drop in[/pl_heading]
+[pl_address pagelayer-id="PeF5WyMGxjeoSwbu"  icon="fas fa-map-marker-alt" space="15" icon_size="22" icon_color="#e81a1cff" color="#5d5d5dff" typography="Source Sans Pro,15,,,,,Solid,1.5,,," ele_css="{{element}} .pagelayer-address{
+text-align:center;
+}" align="center" ele_padding="10px,0px,0px,0px" icon_size_mobile="18" icon_size_tablet="20"]
+[/pl_address]
+[/pl_col]
+[pl_col pagelayer-id="9WI4hCUzaWFm64HO"  widget_space="15" overlay_hover_delay="400" col_width="33" animation="fadeInRight" animation_delay="700" animation_speed="slowest" col_width_mobile="100"]
+[pl_heading pagelayer-id="yfDy7CYGMB2qV3RJ"  heading_state="normal" color="#010101ff" align="center" heading_typo="Source Sans Pro,24,,600,,,Solid,,,," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+Call any time[/pl_heading]
+[pl_phone pagelayer-id="CzB28Yscdm0auMbK"  icon="fas fa-phone-alt" align="center" color="#5d5d5dff" typography="Source Sans Pro,15,,400,,,Solid,1.5,,," space="15" icon_color="#e81a1cff" icon_size="22" ele_padding="10px,0px,0px,0px" icon_size_mobile="18" icon_size_tablet="20"]
+[/pl_phone]
+[/pl_col]
+[/pl_row]
